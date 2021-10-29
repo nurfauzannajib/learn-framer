@@ -1,4 +1,5 @@
 import React from "react";
+// Import Assets
 import clock from "../img/clock.svg";
 import diaphgram from "../img/diaphragm.svg";
 import money from "../img/money.svg";
